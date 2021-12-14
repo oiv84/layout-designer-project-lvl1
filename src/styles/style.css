@@ -18,4 +18,10 @@
   --body-line-height: 1.6em;
   --body-font-color: #2a2626;
   --headings-font-family: "Neucha", cursive;
+
+  /* headings settings **/
+  --headings-line-height: 1.2em;
+  --h1-font-size: 72px;
+  --h2-font-size: 60px;
+  --h3-font-size: 34px;
 }
