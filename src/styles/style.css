@@ -1,1 +1,14 @@
 /** CSS STYLE **/
+
+:root {
+  /** color settings **/
+  --color-white: #fff;
+  --color-translucent-white: #d7ccc0;
+  --color-light: #f5f4f0;
+  --color-main: #fe8a02;
+  --color-main-dark: #42413c;
+  --color-dark: #2a2626;
+  --color-translucent-dark: #908d8b;
+  --color-brown: #b09a81;
+  --color-blue: #1085c5;
+}
