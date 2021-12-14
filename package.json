@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/oiv84/layout-designer-project-lvl1#readme",
   "devDependencies": {
-    "htmlhint": "^1.0.0"
+    "htmlhint": "^1.0.0",
+    "stylelint": "^14.1.0",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^24.0.0",
+    "stylelint-order": "^5.0.0"
   }
 }
