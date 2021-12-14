@@ -95,6 +95,10 @@ a {
   background-color: var(--color-main-dark);
 }
 
+.bg-white {
+  background-color: var(--color-white);
+}
+
 .bg-default-image {
   position: relative;
 }
