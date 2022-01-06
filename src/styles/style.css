@@ -164,3 +164,8 @@ p + .btn {
 .text-orange {
   color: var(--color-main);
 }
+
+.text-center {
+  text-align: center;
+}
+
