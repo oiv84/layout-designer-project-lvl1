@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 /node_modules/**
 
 /src/CNAME
+=======
+/node_modules/
+src/CNAME
+>>>>>>> develop
