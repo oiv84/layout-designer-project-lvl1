@@ -196,4 +196,13 @@ p + .btn {
 .video {
   filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
   z-index: 2;
+.pt-100 {
+  padding-top: 100px !important;
+}
+
+.pa-0 {
+  padding: 0 !important;
+}
+
+.card {
 }
