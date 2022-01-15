@@ -149,6 +149,10 @@ a {
   margin-left: 30px;
 }
 
+.col-half {
+  width: 50%;
+}
+
 .btn {
   display: inline-block;
 
