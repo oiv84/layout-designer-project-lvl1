@@ -76,6 +76,10 @@ img {
 }
 
 a {
+  color: inherit;
+  font-size: inherit;
+  font-style: inherit;
+
   text-decoration: none;
 }
 
