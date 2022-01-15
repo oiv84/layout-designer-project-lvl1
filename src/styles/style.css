@@ -141,6 +141,10 @@ a {
   flex-direction: row;
 }
 
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
 .col + .col {
   margin-left: 30px;
 }
