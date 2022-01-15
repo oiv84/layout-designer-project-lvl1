@@ -165,8 +165,16 @@ p + .btn {
   margin-top: 40px;
 }
 
-.text-dark {
+.text-white {
+  color: var(--color-white);
+}
+
+.text-primary-dark {
   color: var(--color-main-dark);
+}
+
+.text-dark {
+  color: var(--color-dark);
 }
 
 .text-orange {
