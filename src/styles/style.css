@@ -103,6 +103,10 @@ a {
   background-color: var(--color-white);
 }
 
+.bg-brown {
+  background-color: var(--color-brown);
+}
+
 .bg-default-image {
   position: relative;
 }
