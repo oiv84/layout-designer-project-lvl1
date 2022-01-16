@@ -284,3 +284,65 @@ p + .btn {
   font-family: var(--headings-font-family);
   line-height: 40.8px;
 }
+
+.subscribe {
+  padding: 55px;
+}
+
+.subscription-form {
+  width: 100%;
+  border: none;
+}
+
+.subscription-form label {
+  display: block;
+}
+
+.subscription-form input {
+  width: calc(100% - 78px);
+  height: 50px;
+  padding-left: 15px;
+}
+
+.subscription-form .btn {
+  width: 70px;
+  height: 50px;
+}
+
+.subscription-form .btn::before {
+  display: block;
+  width: 24px;
+  height: 24px;
+
+  background-image: url(../images/send.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  content: "";
+}
+
+.terms {
+  margin: 3px 0;
+
+  font-size: 12px;
+}
+
+.terms a {
+  text-decoration: underline;
+}
+
+.copyright {
+  margin: 76px 0 16px;
+
+  font-size: 14px;
+  text-align: center;
+}
+
+.copyright p {
+  margin-bottom: 18px;
+}
+
+.copyright a {
+  color: var(--color-blue);
+  text-decoration: underline;
+}
