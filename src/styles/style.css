@@ -254,7 +254,9 @@ p + .btn {
 }
 
 .how-to-work h4 {
+  font-weight: 700;
   font-size: 14px;
+  font-family: var(--body-font-family);
 
   text-transform: uppercase;
 }
