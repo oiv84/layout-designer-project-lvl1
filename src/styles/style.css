@@ -179,6 +179,10 @@ p + .btn {
   color: var(--color-white);
 }
 
+.text-light {
+  color: var(--color-translucent-white) !important;
+}
+
 .text-primary-dark {
   color: var(--color-main-dark);
 }
@@ -189,6 +193,10 @@ p + .btn {
 
 .text-orange {
   color: var(--color-main);
+}
+
+.text-brown {
+  color: var(--color-brown);
 }
 
 .text-center {
