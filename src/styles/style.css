@@ -56,6 +56,7 @@ h5,
 h6 {
   z-index: 1;
 
+  color: var(--color-main);
   font-family: var(--headings-font-family);
   line-height: var(--headings-line-height);
 }
@@ -369,4 +370,8 @@ p + .btn {
 .copyright a {
   color: var(--color-blue);
   text-decoration: underline;
+}
+
+ul + p {
+  margin: 20px 0 18px;
 }
