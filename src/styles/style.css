@@ -87,6 +87,10 @@ p + p {
   margin-top: 16px;
 }
 
+ul + p {
+  margin: 20px 0 18px;
+}
+
 a {
   color: inherit;
   font-size: inherit;
@@ -370,8 +374,4 @@ p + .btn {
 .copyright a {
   color: var(--color-blue);
   text-decoration: underline;
-}
-
-ul + p {
-  margin: 20px 0 18px;
 }
