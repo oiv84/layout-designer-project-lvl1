@@ -236,6 +236,10 @@ p + .btn {
   padding-top: 100px !important;
 }
 
+.pt-30 {
+  margin-top: 30px;
+}
+
 .pa-0 {
   padding: 0 !important;
 }
@@ -293,35 +297,40 @@ p + .btn {
 }
 
 .subtext {
-  margin-top: 30px;
-
   font-size: 34px;
   font-family: var(--headings-font-family);
   line-height: 40.8px;
 }
 
 .subscribe {
-  padding: 55px;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.ma-55 {
+  margin: 55px;
 }
 
 .subscription-form {
-  width: 100%;
-  border: none;
+  margin-right: 30px;
 }
 
 .subscription-form label {
   display: block;
+  margin-bottom: 9px;
 }
 
 .subscription-form input {
   width: calc(100% - 78px);
   height: 50px;
   padding-left: 15px;
+  border: none;
 }
 
 .subscription-form .btn {
   width: 70px;
   height: 50px;
+  border: none;
 }
 
 .subscription-form .btn::before {
@@ -329,7 +338,7 @@ p + .btn {
   width: 24px;
   height: 24px;
 
-  background-image: url(../images/send.svg);
+  background-image: url("../images/send.svg");
   background-repeat: no-repeat;
   background-size: cover;
 
